@@ -1,7 +1,8 @@
 # unomonteiro.github.io
 
 [Doodle on github ](https://github.com/unomonteiro/Doodle)
-Doodle on Google Play
+
+![ezgif com-gif-maker](https://cloud.githubusercontent.com/assets/7604348/15456027/3e0919fe-205c-11e6-9174-a561a1ee4ce1.gif)
 
 <a href='https://play.google.com/store/apps/details?id=io.monteirodev.doodle'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="200"/></a>
 
