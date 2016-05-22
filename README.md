@@ -1,7 +1,6 @@
-# Welcome to Carlos Monteiro github page
+# Welcome to [unomonteiro.github.io](https://github.com/unomonteiro)
 
-Published apps on [Google Play](https://play.google.com/store/apps/developer?id=Carlos+Monteiro).
-Github profile: [unomonteiro](https://github.com/unomonteiro).
+Apps are available on [Google Play](https://play.google.com/store/apps/developer?id=Carlos+Monteiro).
 
 ___
 ### [Doodle Time](https://github.com/unomonteiro/Doodle)
