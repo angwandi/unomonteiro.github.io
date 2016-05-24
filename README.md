@@ -1,6 +1,6 @@
 # Welcome to [unomonteiro.github.io](https://github.com/unomonteiro)
 
-Apps are available on [Google Play](https://play.google.com/store/apps/developer?id=Carlos+Monteiro).
+Check Carlos Monteiro on [Google Play](https://play.google.com/store/apps/developer?id=Carlos+Monteiro).
 
 ___
 ### [Doodle Time](https://github.com/unomonteiro/Doodle)
@@ -8,9 +8,19 @@ ___
 <img alt='Get it on Google Play' src='https://cloud.githubusercontent.com/assets/7604348/15456027/3e0919fe-205c-11e6-9174-a561a1ee4ce1.gif' width="250"/>
 
 <a href='https://play.google.com/store/apps/details?id=io.monteirodev.doodle'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="150"/></a>
+
+___
+### [Gift Ideas](https://github.com/unomonteiro/Gift-Ideas)
+Getting store items from Etsy API and sharing with Google+ API 
+
+![phone 1](https://cloud.githubusercontent.com/assets/7604348/15521850/10da3548-2206-11e6-88f1-9e51a0355fed.png)
+![phone_2](https://cloud.githubusercontent.com/assets/7604348/15521851/10dd3108-2206-11e6-97b2-1ada4050a433.png)
+
+<a href='https://play.google.com/store/apps/details?id=io.monteirodev.giftideas'><img alt='Get it on Google Play' src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="200"/></a>
+
 ___
 ### [Recipes](https://github.com/unomonteiro/Recipes)
-Recipes app built for phones and tablets.
+Recipes app with phone and tablet layout.
 
 #### Phone layout
 | List | Ingredients | Directions |
