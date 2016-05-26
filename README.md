@@ -10,8 +10,22 @@ ___
 <a href='https://play.google.com/store/apps/details?id=io.monteirodev.doodle'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="150"/></a>
 
 ___
+### [Court Counter](https://github.com/unomonteiro/court-counter)
+Court counter app.
+
+Based on udacity course with some improvements:
+- Keeps the scores on orientation changes
+- Keeps the scores even after closign the app
+- Layout for Portrait and Landscape
+
+![screenshot_scores_350](https://cloud.githubusercontent.com/assets/7604348/15586906/ad698002-237e-11e6-815c-90e0a2cfa843.png) ![screenshot_zero_350](https://cloud.githubusercontent.com/assets/7604348/15586907/ad825b68-237e-11e6-864c-6e23011fc28b.png)  
+
+![screenshot_scores_350_land](https://cloud.githubusercontent.com/assets/7604348/15590124/e4665d00-238d-11e6-81de-e57deef2dce5.png)
+
+
+___
 ### [Gift Ideas](https://github.com/unomonteiro/Gift-Ideas)
-Getting store items from Etsy API and sharing with Google+ API 
+Getting store items from Etsy API and sharing with Google+ API
 
 ![phone 1](https://cloud.githubusercontent.com/assets/7604348/15521850/10da3548-2206-11e6-88f1-9e51a0355fed.png)
 ![phone_2](https://cloud.githubusercontent.com/assets/7604348/15521851/10dd3108-2206-11e6-97b2-1ada4050a433.png)
